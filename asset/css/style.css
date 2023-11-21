@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sub-title{
+    letter-spacing:3px;
+}
+.title{
+    font-family: montserrat;
+}
+#featured .featured-icon{
+	font-size: 60px;
+    color: #DC3545
+}
+.hiro-btn:hover{
+    background:black !important;
+    color: white !important;
+
+}
+.hiro2-btn:hover{
+background:tomato !important;
+color: white !important;
+}
+#mobile .margin{
+    margin-left: 100px !important;
+}
+img{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#footer{
+    background: #322f2f;
+    width: 100%;
+}
+img{
+    max-width: 100%;
+}
